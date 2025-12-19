@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "抜錨",
+  "base_artist": "ナナホシ管弦楽団",
+  "createdAt": "2025-12-19T08:09:44.752456Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "抜錨 - Weigh anchor (feat. Megurine Luka)",
+      "artist": "Nanahoshi Orchestra & Megurine Luka",
+      "has_synced": true,
+      "path": "select/01_抜錨_-_Weigh_anchor_(feat._Megurine_Luka)_Nanahoshi_Orchestra_&_Megurine_Luka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "抜錨 - weigh anchor",
+      "artist": "Nanahoshi Orchestra",
+      "has_synced": true,
+      "path": "select/02_抜錨_-_weigh_anchor_Nanahoshi_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "抜錨",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/03_抜錨_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "抜錨 - Weigh anchor (feat. Megurine Luka)",
+      "artist": "Nanahoshi Orchestra",
+      "has_synced": true,
+      "path": "select/04_抜錨_-_Weigh_anchor_(feat._Megurine_Luka)_Nanahoshi_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "抜錨",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/05_抜錨_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "抜錨",
+      "artist": "Leo/need (野口瑠璃子, 礒部花凜, 上田麗奈, 中島由貴) Feat. 巡音ルカ",
+      "has_synced": true,
+      "path": "select/06_抜錨_Leo_need_(野口瑠璃子,_礒部花凜,_上田麗奈,_中島由貴)_Feat._巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "抜錨 / ナナホシ管弦楽団 -Cover- ウォルピスカーター",
+      "artist": "월피스 카터",
+      "has_synced": false,
+      "path": "select/07_抜錨___ナナホシ管弦楽団_-Cover-_ウォルピスカーター_월피스_카터.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "抜錨",
+      "artist": "ナナホシ管弦楽団",
+      "has_synced": false,
+      "path": "select/pl_01_抜錨_ナナホシ管弦楽団.txt"
+    }
+  ]
+}
